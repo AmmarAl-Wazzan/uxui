@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
           child: Column(
             children: [
               Expanded(
-                flex: 1,
+                flex: 5,
                 child: Container(
                   color: Colors.red,
                   height: 120,
